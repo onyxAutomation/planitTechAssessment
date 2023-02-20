@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-19T17:52:25 AEDT" name="Suite" finished-at="2023-02-19T17:53:18 AEDT" duration-ms="53543">
+    <groups>
+    </groups>
+    <test started-at="2023-02-19T17:52:25 AEDT" name="Test" finished-at="2023-02-19T17:53:18 AEDT" duration-ms="53543">
+      <class name="testCases.PlanIt_CodeChallenge_JupiterToys">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:52:25 AEDT" name="setUp" finished-at="2023-02-19T17:52:29 AEDT" duration-ms="4715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC1_ContactPageMandatoryFieldsValidation()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:52:29 AEDT" name="TC1_ContactPageMandatoryFieldsValidation" finished-at="2023-02-19T17:52:31 AEDT" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_ContactPageMandatoryFieldsValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:52:31 AEDT" name="tearDown" finished-at="2023-02-19T17:52:31 AEDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:52:31 AEDT" name="setUp" finished-at="2023-02-19T17:52:37 AEDT" duration-ms="6047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC2_ContactPageSubmitFeedbackValidation()[pri:1, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:52:37 AEDT" name="TC2_ContactPageSubmitFeedbackValidation" finished-at="2023-02-19T17:53:08 AEDT" duration-ms="31477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_ContactPageSubmitFeedbackValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:53:08 AEDT" name="tearDown" finished-at="2023-02-19T17:53:09 AEDT" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:53:09 AEDT" name="setUp" finished-at="2023-02-19T17:53:15 AEDT" duration-ms="6007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC3_CartPagePurchaseValidation()[pri:2, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:53:15 AEDT" name="TC3_CartPagePurchaseValidation" finished-at="2023-02-19T17:53:18 AEDT" duration-ms="3026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_CartPagePurchaseValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PlanIt_CodeChallenge_JupiterToys@3e821657]" started-at="2023-02-19T17:53:18 AEDT" name="tearDown" finished-at="2023-02-19T17:53:18 AEDT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PlanIt_CodeChallenge_JupiterToys -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
